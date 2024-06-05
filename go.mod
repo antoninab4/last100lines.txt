@@ -48,7 +48,7 @@ require (
 	github.com/ethereum/go-ethereum v1.13.13
 	github.com/golang/protobuf v1.5.4
 	github.com/onsi/ginkgo/v2 v2.13.0
-	golang.org/x/mod v0.15.0
+	golang.org/x/mod v0.18.0
 )
 
 require (
